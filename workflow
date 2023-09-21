@@ -1,4 +1,4 @@
-Project Workflow
+weatherML Project Workflow
 ----------------
 
 1. Gather data
